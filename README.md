@@ -9,8 +9,8 @@ This project demonstrates how to create a simple chatbot application using Flask
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/isinsuatay/simple-chatbot-with-python-flask-machine-learning-.git
-    cd simple-chatbot-with-python-flask-machine-learning-
+    git clone https://github.com/isinsuatay/Simple-Chatbot-Python-Flask.git
+    cd Simple-Chatbot-Python-Flask
     ```
 
 2. Install the required packages:
